@@ -1,0 +1,12 @@
+VarName,Dist,Param1,Param2,Param3
+Vol Small,rpois,20,,
+Vol Medium,rpois,15,,
+Vol Large,rpois,10,,
+Price Small,rnorm,5,0,
+Price Medium,rnorm,7,0,
+Price Large,rnorm,10,0,
+Vol Cake,rbinom,45,0.05,
+Vol Choc,rbinom,45,0.1,
+Price Cake,rnorm,10,0,
+Price Choc,rnorm,3,0,
+Penalty Vol,rnorm,50,0,
